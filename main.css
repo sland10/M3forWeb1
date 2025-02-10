@@ -1,0 +1,91 @@
+@charset "UTF-8";
+/* CSS Document */
+*{
+    border-sizing: border-box;}
+
+
+body{
+    background: url("birdbackground.png") no-repeat fixed top right;
+}
+
+#container{
+    width:900px;
+    margin:0 auto;}
+
+nav{
+    height: 50px;
+    width: 100%;
+    background-color:rgba(0,69,63,0.90);
+    text-align: center; color: #fff;
+    border-radius:5px;
+    border:thin aqua solid;
+    }                       /* navigation links will go here */
+
+.top{
+    width: 850px;
+    height: 300px;
+    background-color:rgba(255,255,255,0.25);
+    border-radius:25px;
+    float: center;
+    margin: 5px 0px 0px 5px;
+    padding: 30px 30px 30px 30px;
+    border: thin aqua solid;
+}
+
+.mid{
+    width: 850px;
+    height: 300px;
+    background-color:rgba(255,255,255,0.25);
+    border-radius:25px;
+    float: center;
+    margin: 5px 0px 0px 5px;
+    padding: 30px 30px 30px 30px;
+    border: thin aqua solid;
+}
+
+.bottom{width: 850px;
+    height: 300px;
+    background-color:rgba(255,255,255,0.25);
+    border-radius:25px;
+    float: center;
+    margin: 5px 0px 0px 5px;
+    padding: 30px 30px 30px 30px;
+    border: thin aqua solid;}
+
+.extraspace{
+    visibility:hidden;
+    width: 850px;
+    height: 300px;
+    background-color:rgba(255,255,255,0.25);
+    border-radius:25px;
+    float: center;
+    margin: 5px 0px 0px 5px;
+    padding: 30px 30px 30px 30px;
+    border: thin aqua solid;}      /* extra space for content */
+
+
+
+
+footer{
+    background-color:rgba(255,255,255,1.00);
+    clear:both;
+    text-align:center;
+    }
+
+header >h1 {
+    text-align: center; color: #fff;}
+
+
+    
+    
+
+    
+    
+
+
+
+
+
+
+
+
